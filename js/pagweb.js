@@ -1,0 +1,1 @@
+$("#nombredelobjeto").click.function
